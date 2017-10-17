@@ -36,7 +36,9 @@ namespace StartingPoint
 			// Generate invoice
 			string statement = custMickeyMouse.Statement();
 
-			// Print the statement
+            // Print the statement
+            Console.WriteLine("Julia was here");
+
 			Console.WriteLine(statement);
 			Console.ReadLine();
 		}
