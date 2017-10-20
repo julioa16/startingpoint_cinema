@@ -1,1 +1,1 @@
-C:jenkins\tools\
+C:jenkins\tools\nunit3-console.exe Test_Starting\bin\Debug\Test_Starting.dll --result=Testresult.xml
